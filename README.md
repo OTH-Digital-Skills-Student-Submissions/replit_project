@@ -3,23 +3,6 @@ Hey! Du willst programmieren lernen? Dann bist du hier genau richtig. Hier wirst
 
 ---
 
-## Aufgaben
-Eine Anleitung, wie du Aufgaben bearbeitest, findest du unten.
-
-### Aufgabe 1: Intro
-Hier geht's los. In dieser Aufgabe wirst du deine ersten Erfahrungen mit der Programmiersprache Python machen.
->Teilnahmelink: [01 Intro](https://classroom.github.com/a/NhB7RLNP)
-
-### Aufgabe 2: Erste Schleife
-In der zweiten Aufgabe lernst du die erste Art von Schleifen.
->Teilnahmelink: [02 Erste Schleife](https://classroom.github.com/a/ltFInNl6)
-
-### Aufgabe 3: Mario
-Gegen Ende von Welt 1-1 in Nintendos Super Mario Brothers muss Mario eine rechts ausgerichtete Pyramide aus Blöcken erklimmen. Deine Aufgabe ist es diese Pyramide nachzubauen.
->Teilnahmelink: [03 Mario](https://classroom.github.com/a/eknnWrje)
-
----
-
 ## Voraussetzungen
 - GitHub Account ([github.com](https://github.com/) - kostenlos)
 - Replit Account ([replit.com](https://replit.com/) - kostenlos)
