@@ -14,6 +14,7 @@
         pkgs.python39Packages.pytest
         pkgs.python39Packages.termcolor
         pkgs.haskellPackages.termcolor
+        pkgs.sqlite
 
        
     ];
