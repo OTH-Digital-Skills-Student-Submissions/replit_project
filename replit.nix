@@ -16,6 +16,9 @@
         pkgs.haskellPackages.termcolor
         pkgs.sqlite
         pkgs.darkhttpd
+        pkgs.python39Packages.flask_sqlalchemy
+        pkgs.python39Packages.sqlparse
+        pkgs.python39Packages.cachelib
 
        
     ];
